@@ -1,4 +1,4 @@
-# Stock-Market-Investment-Portfolio-Optimization
+
 Python, Jupyter Notebook
 # Stock Portfolio Selection, Optimization, and Comparison
 
